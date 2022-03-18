@@ -44,10 +44,10 @@ img {
   width: 60%;
   height: 300px;
   color: rgb(0, 0, 7);
-  margin-left: 5%;
-  border: 5px solid rgb(255, 255, 255);
+  margin-left: 8%;
+  border: 10px solid rgb(255, 255, 255);
   padding: 15px;
-  border-radius: 5%;
+  /* border-radius: 7%; */
   border-radius: ;
 }
 h4 {
@@ -58,4 +58,8 @@ h4 {
 p {
   font-family: Snell Roundhand, cursive;
   font-size: 22px;
+}
+.skill {
+  float: float;
+  width: 30%;
 }
