@@ -12,7 +12,7 @@
 
 ## Description
 
-_The following webpage gives abrief description of my professional career including skills that I have aquired in my wonderful journey of life and glimpse of my hobbies and interests._
+_The following webpage gives abrief description of my professional career including skills that I have aquired in my wonderful journey of life.._
 
 _By the end of the page I am quite sure you will be able to know me well._
 
