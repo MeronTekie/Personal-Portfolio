@@ -10,6 +10,8 @@
 
 - CSS
 
+- BootStrap
+
 ## Description
 
 _The following webpage gives abrief description of my professional career including skills that I have aquired in my wonderful journey of life.._
@@ -25,6 +27,10 @@ _By the end of the page I am quite sure you will be able to know me well._
 - Select the Index.html File
 
 - Run index.html file in your machine's browser
+
+## Buggs and Fixes
+
+-No Known Bugs.
 
 ## Liscence
 
