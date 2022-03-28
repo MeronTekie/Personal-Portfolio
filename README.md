@@ -30,7 +30,7 @@ _By the end of the page I am quite sure you will be able to know me well._
 
 ## Buggs and Fixes
 
--No Known Bugs.
+- No Known Bugs.
 
 ## Liscence
 
